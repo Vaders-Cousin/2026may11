@@ -1,0 +1,19 @@
+step by step for creating a new repo
+
+open VSCode
+open the folder open and then navigate to the CPG folder
+open github account
+create repo
+run the repo commands
+
+create a new repository on the command line
+
+  echo "# 2026may11" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/Vaders-Cousin/2026may11.git
+  git push -u origin main
+
+  git checkout -b alternate branch
